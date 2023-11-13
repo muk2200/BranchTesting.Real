@@ -10,4 +10,8 @@ public class Dog extends Animal {
     public boolean eat(String foodType) {
         return false;
     }
+
+    public void showMood(){
+        System.out.println("logrer");
+    }
 }
