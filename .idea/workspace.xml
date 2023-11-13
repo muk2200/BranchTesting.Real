@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5651f57b-34d6-493e-8353-fde5c575bfef" name="Changes" comment="New Change - IIII">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="5651f57b-34d6-493e-8353-fde5c575bfef" name="Changes" comment="New Change - V" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699862729864</updated>
-      <workItem from="1699862731284" duration="2820000" />
+      <workItem from="1699862731284" duration="3154000" />
     </task>
     <task id="LOCAL-00001" summary="New Change">
       <option name="closed" value="true" />
@@ -100,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699865419687</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="New Change - V">
+      <option name="closed" value="true" />
+      <created>1699867138594</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699867138594</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +125,7 @@
     <MESSAGE value="New Change - Boolean n eat feature" />
     <MESSAGE value="New Change - III" />
     <MESSAGE value="New Change - IIII" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Change - IIII" />
+    <MESSAGE value="New Change - V" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Change - V" />
   </component>
 </project>
