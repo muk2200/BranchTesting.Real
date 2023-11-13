@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5651f57b-34d6-493e-8353-fde5c575bfef" name="Changes" comment="New Change">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dog.java" afterDir="false" />
+    <list default="true" id="5651f57b-34d6-493e-8353-fde5c575bfef" name="Changes" comment="New Change - III">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699862729864</updated>
-      <workItem from="1699862731284" duration="1117000" />
+      <workItem from="1699862731284" duration="1964000" />
     </task>
     <task id="LOCAL-00001" summary="New Change">
       <option name="closed" value="true" />
@@ -67,7 +66,31 @@
       <option name="project" value="LOCAL" />
       <updated>1699863348569</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New Change - Boolean n eat feature">
+      <option name="closed" value="true" />
+      <created>1699863875593</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699863875593</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New Change - Boolean n eat feature">
+      <option name="closed" value="true" />
+      <created>1699864053442</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699864053442</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New Change - III">
+      <option name="closed" value="true" />
+      <created>1699864169351</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699864169351</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,19 +101,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="HEAD" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -98,6 +109,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Change" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Change" />
+    <MESSAGE value="New Change - Boolean n eat feature" />
+    <MESSAGE value="New Change - III" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Change - III" />
   </component>
 </project>
